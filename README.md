@@ -1,4 +1,7 @@
 # Machine Learning and Python
+<center>
+<img title="Machine Learning Logo" alt="Alt text" src="https://www.vhv.rs/dpng/d/189-1896676_transparent-neural-network-png-neural-network-machine-learning.png" height="400" width="1000">
+</center>
 
 [Gameplan login](https://gp4.idtech.com/StudentLoginStep1)
 
