@@ -13,6 +13,9 @@ Introduction to machine learning algorithms using Python and Tensorflow
 
      
 * **Day 2:**
+    First, download the `mnist_workbook.ipynb` file and open it up into a jupyter notebook on your local machine. Complete these problems. If it is not working,
+  then open it into a google colab notebook online.
+  
    * [Keras Datasets](https://keras.io/api/datasets/)
    * [Image Classification: Fashion Images](https://colab.research.google.com/drive/1vngLia9dYcOfGNf1rmjk17Z5R6t4iMy2?usp=sharing)
    * [Classifying Handwritten Digits using a Neural Network](https://colab.research.google.com/drive/1a7iimWQ6pG0-9_9uKf5kD-kl0_KdrUHr?usp=sharing)
