@@ -13,7 +13,8 @@ Introduction to machine learning algorithms using Python and Tensorflow
 
      
 * **Day 2:**
-    First, download the `mnist_workbook.ipynb` file and open it up into a jupyter notebook on your local machine. Complete these problems. If it is not working,
+
+  First, download the `mnist_workbook.ipynb` file and open it up into a jupyter notebook on your local machine. Complete these problems. If it is not working,
   then open it into a google colab notebook online.
   
    * [Keras Datasets](https://keras.io/api/datasets/)
