@@ -25,6 +25,11 @@ Introduction to machine learning algorithms using Python and Tensorflow
    * [Classifying Handwritten Digits using a Neural Network](https://colab.research.google.com/drive/1a7iimWQ6pG0-9_9uKf5kD-kl0_KdrUHr?usp=sharing)
 
 
+* **Day 3 & 4:**
+
+  Today, you will create your own project. For this, I want you to summarize everything that you have learned in a well annotated jupyter notebook.
+  For a template, download the `Leaves_project.ipynb` file to look at. You should follow this template for creating your project.
+
 ## Other Links
 * [Classifying Handwritten Digits Pt 2. CNNs](https://colab.research.google.com/drive/1RSq3uGKbeUGxQkmJm1w51d7IbaKrQhew?usp=sharing)
 * [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.86234&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
